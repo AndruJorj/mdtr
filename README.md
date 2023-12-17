@@ -20,7 +20,7 @@ Markdown Terminal Renderer (`mdtr`) is a Python script designed to render Markdo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/mdtr.git
+   git clone https://github.com/AndruJorj/mdtr.git
    ```
 
 2. Navigate to the cloned directory:
@@ -37,7 +37,7 @@ Python package installer
    pip install rich
    ```
 
-Ubuntu 22.04.3
+Ubuntu (22.04.3)
 
    ```bash
    apt install python3-rich
